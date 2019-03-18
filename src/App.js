@@ -74,7 +74,7 @@ class App extends Component {
       {
         name: "This Site",
         skill: "React, Javascript, HTML, CSS, Materialize",
-        github: "",
+        github: "https://github.com/jsrpy/jccpy",
         demo: "",
         description: "Of course, this simple portfolio page built with React and Materialize CSS.",
         img: ""
