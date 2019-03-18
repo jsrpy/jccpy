@@ -1,0 +1,13 @@
+#header {
+  display: table;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.card-panel {
+  width: 800px;
+}
+
+hr {
+  border: 0.8px solid teal;
+}

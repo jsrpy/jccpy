@@ -1,0 +1,9 @@
+#projectlist {
+  display: table;
+  margin: 0 auto;
+}
+
+#projectlist h4 {
+  text-align: left;
+  margin-bottom: 0;
+}

@@ -1,0 +1,34 @@
+.project .card-panel {
+  width: 600px;
+}
+
+.project h4 {
+  color: #00bfa5;
+}
+
+.stack,
+.description {
+  font-size: 16px;
+  text-align: justify;
+}
+
+.source,
+.demo {
+  font-size: 14px;
+  display: inline;
+}
+
+.skill {
+  font-weight: bold;
+  /* text-shadow: 1px 1px 1px black; */
+}
+
+.card-image {
+  width: 260px;
+  height: auto;
+}
+
+.card-image img {
+  width: 100%;
+  height: auto;
+}
